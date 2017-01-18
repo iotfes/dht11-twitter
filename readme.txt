@@ -7,7 +7,7 @@
 
 ○前提
 - Raspberry piにCumulocity Agentをインストールしており、正常に接続していること。
-- Raspberry piのAdministrationアプリの"Own applications" -> "Create application"よりアプリケーション情報を登録し、App-Keyを取得していること。
+- Raspberry piのAdministrationアプリの"Own applications" -> "Create application"よりアプリケーション情報を登録し、App-Keyを取得していること。(App-Key登録画面例.png参照)
 - Twitterアカウントを所有しており、下記の値を取得していること。
 -- consumer_key
 -- consumer_secret
