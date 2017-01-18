@@ -1,0 +1,21 @@
+# 会議室名
+room_name: "会議室C"
+
+# cumulocity
+# fragmentTypeはRaspberry piがデータをアップロードする際にJSONの先頭にて指定している文字列のこと。例：DHT11_TemperatureMeasurement
+# appkeyはCumulocityのAdministration画面にて"APPLICATION KEY"欄に入力したものを使用
+c8y:
+  host: "******"
+  pageSize: "1"
+  username: "******"
+  password: "******"
+  appkey: "******"
+  fragmentType: "******"
+
+# [Twitter版のみ]Twitterアカウント情報
+twitter:
+  consumer_key:        "******"
+  consumer_secret:     "******"
+  access_token:        "******"
+  access_token_secret: "******"
+  
